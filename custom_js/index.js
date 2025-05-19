@@ -75,6 +75,11 @@ const cb = [1, 2, 3, 4, 5, 6];
 
 async function fetchData() {
   try {
+
+  // Fetch for test materials list
+  console.log("Current directory (__dirname):", __dirname);
+  console.log("fetching data...")
+
   const countResponse = await fetch(`/get-idx`, { method: 'POST' });
     if (!countResponse.ok) throw new Error('Failed to fetch list_idx');
     const countData = await countResponse.json();
@@ -221,8 +226,8 @@ async function fetchData() {
     let data = filteredData.filter(item => item.stimulus_type.includes(stimulus));
     if (data.length === 0) throw new Error('No matching data found for the stimulus');
 
-    // const randomNumber = Math.floor(Math.random() * 6) + 1;
-    const randomNumber = 1; // choose base order for the block, this is different for each run session
+    const randomNumber = Math.floor(Math.random() * 6) + 1;
+    //const randomNumber = 1; // choose base order for the block, this is different for each run session
     const order=order_codes[randomNumber];
     // const repeated_order = [].concat(order, order, order); # concatenate 3 times for 3 blocks
     const repeated_order = order; // for debug
@@ -375,7 +380,7 @@ async function fetchData() {
 
         if (item.modality === 'pic') {
           questions.push({
-            expType: 'movingStimulus_LR',
+            expType: 'movingStimulus_LR',         
             stimulus: `/MultiSemantics_images/${item.stimulus}.jpg`,
             choices: keyboard_choices,
             duration: stimuli_duration, 
@@ -383,7 +388,11 @@ async function fetchData() {
             directictionIdx: new_direction,
             data: { 
               list: item.sublist,
-              stimulus: item.stimulus
+              block_idx:block,
+              question: item.stimulus,
+              modality: item.modality,
+              type: item.stimulus_type,
+              correctanswer: item.trial_type
             } 
           });
         } else {
@@ -396,7 +405,11 @@ async function fetchData() {
             directictionIdx: new_direction,
             data: { 
               list: item.sublist,
-              stimulus: item.stimulus
+              block_idx:block,
+              question: item.stimulus,
+              modality: item.modality,
+              type: item.stimulus_type,
+              correctanswer: item.trial_type
             } 
           });        
         }
