@@ -1,0 +1,3458 @@
+[
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-2163218617-612x612",
+        "modifiedSentences_updated":"A patient is measuring glucose at the hospital.",
+        "modifiedSentences":"Someone is checking blood sugar at the counter.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1332147381-640x640",
+        "modifiedSentences_updated":"A waiter is stacking plates on the counter.",
+        "modifiedSentences":"John is wrapping presents in the kitchen.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1368571024-640x640",
+        "modifiedSentences_updated":"A pianist is playing jazz at the bar.",
+        "modifiedSentences":"A guitarist is playing at the bar.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"can_opener_12s",
+        "modifiedSentences_updated":"The cook is lifting the lid from the pot.",
+        "modifiedSentences":"Someone is peeling an onion in a kitchen.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1143097730-640x640",
+        "modifiedSentences_updated":"A person is drizzling pepper on the salad.",
+        "modifiedSentences":"Emily is drizzling honey on the pancake.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1334083748-640x640",
+        "modifiedSentences_updated":"A person is shuttering the blinds in the study.",
+        "modifiedSentences":"Someone is arranging flowers in the room.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"unicycle_08s",
+        "modifiedSentences_updated":"A performer is walking on a tightrope at the circus.",
+        "modifiedSentences":"A tightrope walker is performing above the courtyard.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1385944646-640x640",
+        "modifiedSentences_updated":"A child is playing with blocks in the playroom.",
+        "modifiedSentences":"Emily is drawing pictures on the floor.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-482227266-640x640",
+        "modifiedSentences_updated":"Someone is dipping a sushi in the sauce.",
+        "modifiedSentences":"Max is dipping a potsticker in the sauce.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"lock_09s",
+        "modifiedSentences_updated":"A handyman is repairing the handle on the door.",
+        "modifiedSentences":"Eric is decoding the safe in the office.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"gun_06s",
+        "modifiedSentences_updated":"The videographer is clutching a camera in the studio.",
+        "modifiedSentences":"Laura is holding a camera in the studio.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"smoke_alarm_03s",
+        "modifiedSentences_updated":"A DJ is twisting the dial on the radio.",
+        "modifiedSentences":"Someone is turning the knob on the oven.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"bank_03s",
+        "modifiedSentences_updated":"Someone is placing a stamp on the envelope.",
+        "modifiedSentences":"Marcus is dropping a book into a backpack.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"flyswatter_04s",
+        "modifiedSentences_updated":"A cleaner is spraying freshener in the room.",
+        "modifiedSentences":"Someone is grasping a hammer in the garage.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1496985722-640x640",
+        "modifiedSentences_updated":"A biker is inflating the tire in the garage.",
+        "modifiedSentences":"Jessica is charging the phone at home.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"game_08s",
+        "modifiedSentences_updated":"A woman is tossing dice on the table.",
+        "modifiedSentences":"Jamie is solving a puzzle on the floor.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"eyedropper_12s",
+        "modifiedSentences_updated":"A patient is applying medicine to the wound.",
+        "modifiedSentences":"A spoon is stirring sugar in the bowl.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"cooker_05s",
+        "modifiedSentences_updated":"A server is scooping soup from the pot.",
+        "modifiedSentences":"Emma is holding groceries on the porch.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"rake_13s",
+        "modifiedSentences_updated":"The gardener is setting up sprinklers in the garden.",
+        "modifiedSentences":"Lisa is trimming bushes in the garden.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1395068267-640x640",
+        "modifiedSentences_updated":"A worker is digging a hole in the yard.",
+        "modifiedSentences":"Emma is placing a sapling in the ground.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"dynamite_08s",
+        "modifiedSentences_updated":"A camper is lighting a match near sticks.",
+        "modifiedSentences":"Emily is lighting a match near paper stack.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-992889896-640x640",
+        "modifiedSentences_updated":"A shopper is selecting peaches at the store.",
+        "modifiedSentences":"Someone is selecting apples at the store.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"screen1_11s",
+        "modifiedSentences_updated":"A presenter is adjusting the projector in the classroom.",
+        "modifiedSentences":"Joan is adjusting the projector in the classroom.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1255886269-640x640",
+        "modifiedSentences_updated":"A clown is juggling balls near the fountain.",
+        "modifiedSentences":"Emily is skateboarding outside on the pavement.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"knitting_03s",
+        "modifiedSentences_updated":"A person is folding paper on the balcony.",
+        "modifiedSentences":"Emma is painting on the easel.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"snorkel_12s",
+        "modifiedSentences_updated":"An athlete is stretching muscles on the field.",
+        "modifiedSentences":"A runner is stretching on the track.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"button2_07s",
+        "modifiedSentences_updated":"A controller is pressing a button on the console.",
+        "modifiedSentences":"A toe is tapping a pedal on stage.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"gun_06s",
+        "modifiedSentences_updated":"The videographer is clutching a camera in the studio.",
+        "modifiedSentences":"Laura is holding a camera in the studio.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1159677762-640x640",
+        "modifiedSentences_updated":"A carpenter is crafting an artifact in the studio.",
+        "modifiedSentences":"Maria is painting wood in the studio.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"punch2_03s",
+        "modifiedSentences_updated":"An employee is stapling documents by the printer.",
+        "modifiedSentences":"Jay is stapling some documents.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1078964184-640x640",
+        "modifiedSentences_updated":"A pedestrian is putting on gloves on the sidewalk.",
+        "modifiedSentences":"Maria is adjusting gloves on the sidewalk.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"flatiron_04s",
+        "modifiedSentences_updated":"Someone is grooming fluff from the settee.",
+        "modifiedSentences":"Someone is brushing fur off a couch.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1339007152-640x640",
+        "modifiedSentences_updated":"A hiker is arranging a picnic in the woods.",
+        "modifiedSentences":"Jessica is arranging a picnic in the park.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"shuffleboard_01b",
+        "modifiedSentences_updated":"A woman is playing foosball in the bar.",
+        "modifiedSentences":"Jack is playing darts in the pub.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1143330375-640x640",
+        "modifiedSentences_updated":"A person is sculpting a statue with clay.",
+        "modifiedSentences":"Anna is painting a landscape on the canvas.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"treadmill_09n",
+        "modifiedSentences_updated":"A woman is using the elliptical in the gym.",
+        "modifiedSentences":"Lisa is cycling on the stationary bike in the gym.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"eyedropper_12s",
+        "modifiedSentences_updated":"A patient is applying medicine to the wound.",
+        "modifiedSentences":"A spoon is stirring sugar in the bowl.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"laptop_14s",
+        "modifiedSentences_updated":"An assistant is cutting a letter with an opener.",
+        "modifiedSentences":"Jamie is writing on the tablet.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"loom_08s",
+        "modifiedSentences_updated":"A barista is grinding beans with a grinder.",
+        "modifiedSentences":"Someone is knitting in the living room.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1053175708-640x640",
+        "modifiedSentences_updated":"A biologist is bird watching by the river.",
+        "modifiedSentences":"Someone is sketching in a notebook at the park.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"ukulele_01b",
+        "modifiedSentences_updated":"A girl is humming a melody on the porch.",
+        "modifiedSentences":"Sophia is strumming a guitar on the porch.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"dial_06s",
+        "modifiedSentences_updated":"A lady is typing on a typewriter in the study.",
+        "modifiedSentences":"A hand is typing letters on the keyboard.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"boomerang_07s",
+        "modifiedSentences_updated":"A cowboy is swinging a lasso above the field.",
+        "modifiedSentences":"Someone is swinging a lasso above the field.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"peeler_06s",
+        "modifiedSentences_updated":"A person is carving a pumpkin on the table.",
+        "modifiedSentences":"Someone is slicing an apple on the counter.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"ballot_box_13s",
+        "modifiedSentences_updated":"A voter is inserting a letter into the mailbox.",
+        "modifiedSentences":"James is inserting a letter into the mailbox.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"jackhammer_04s",
+        "modifiedSentences_updated":"The worker is drilling a hole into the wall.",
+        "modifiedSentences":"Marcus is drilling into the wall.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"snowmobile_05s",
+        "modifiedSentences_updated":"A child is riding a sled in the forest.",
+        "modifiedSentences":"Someone is biking through the trails in the park.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"clipper2_04s",
+        "modifiedSentences_updated":"A gentleman is adjusting the tie in the bathroom.",
+        "modifiedSentences":"Someone is brushing hair in the bathroom.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"guacamole_12s",
+        "modifiedSentences_updated":"A baker is stirring the batter on the counter.",
+        "modifiedSentences":"A spatula is stirring the batter on the counter.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-937359900-640x640",
+        "modifiedSentences_updated":"A cleaner is scrubbing the tile in the bathroom.",
+        "modifiedSentences":"Lisa is dusting the shelves in the office.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1055473772-640x640",
+        "modifiedSentences_updated":"A hunter is trudging along the river in the forest.",
+        "modifiedSentences":"Someone is sipping juice under the tree.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"map_12s",
+        "modifiedSentences_updated":"An electrician is adjusting the antenna on the rooftop.",
+        "modifiedSentences":"George is reading a book on the rooftop.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1367941874-640x640",
+        "modifiedSentences_updated":"An athlete is stretching on the yoga mat.",
+        "modifiedSentences":"Samantha is jogging on a treadmill indoors.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"champagne_05s",
+        "modifiedSentences_updated":"A bartender is pouring beer into a pint.",
+        "modifiedSentences":"Coffee is spilling onto the table.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1349013627-640x640",
+        "modifiedSentences_updated":"A cook is breaking a cucumber in half.",
+        "modifiedSentences":"Fingers are slicing vegetables in the kitchen.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1227163441-640x640",
+        "modifiedSentences_updated":"The woman is swinging a racket on the court.",
+        "modifiedSentences":"Emily is swinging a tennis racket on court.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"machine_gun_07s",
+        "modifiedSentences_updated":"A hunter is lying with a crossbow in the woods.",
+        "modifiedSentences":"Jessica is resting with a book on the couch.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"boomerang_07s",
+        "modifiedSentences_updated":"A cowboy is swinging a lasso above the field.",
+        "modifiedSentences":"Someone is swinging a lasso above the field.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"squirt_gun_01b",
+        "modifiedSentences_updated":"A neighbor is throwing a snowball in the yard.",
+        "modifiedSentences":"Someone is sweeping leaves on the driveway.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"flashlight_07s",
+        "modifiedSentences_updated":"A person is beaming a light into the cave.",
+        "modifiedSentences":"Alex is holding a lantern near the tent.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"baton1_01s",
+        "modifiedSentences_updated":"A judge is blowing a whistle on the field.",
+        "modifiedSentences":"Someone is sketching with a pencil nearby.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"dough_16s",
+        "modifiedSentences_updated":"A baker is shaping cookies on the sheet.",
+        "modifiedSentences":"Fingers are shaping clay on the wheel.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1498590502-640x640",
+        "modifiedSentences_updated":"Someone is squeezing a sponge in the bathtub.",
+        "modifiedSentences":"Emma is pressing dough on the counter.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"blowgun_09s",
+        "modifiedSentences_updated":"A teenager is throwing darts in the backyard.",
+        "modifiedSentences":"Someone is throwing darts in the backyard.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"hopscotch_04s",
+        "modifiedSentences_updated":"A boy is balancing himself on the curb.",
+        "modifiedSentences":"James is drawing with chalk on the sidewalk.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"ballot_box_13s",
+        "modifiedSentences_updated":"A voter is inserting a letter into the mailbox.",
+        "modifiedSentences":"James is inserting a letter into the mailbox.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"lawnmower_14s",
+        "modifiedSentences_updated":"A woman is planting trees in the garden.",
+        "modifiedSentences":"Lisa is trimming hedges in the yard.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"baseball_bat_12s",
+        "modifiedSentences_updated":"A boxer is punching a bag in the gym.",
+        "modifiedSentences":"Sophia is swinging a golf club at the course.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1207062924-640x640",
+        "modifiedSentences_updated":"Someone is dividing the pizza into slices.",
+        "modifiedSentences":"Fingers are slicing cake in the kitchen.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"duster_03s",
+        "modifiedSentences_updated":"An employee is tidying up the workstation in the office.",
+        "modifiedSentences":"Sarah is sweeping floors in the kitchen.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"faucet_02s",
+        "modifiedSentences_updated":"A child is scrubbing mud off hands",
+        "modifiedSentences":"Feet are splashing water in a puddle.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"bathtub_04s",
+        "modifiedSentences_updated":"An infant is splashing water in the bathtub.",
+        "modifiedSentences":"Sophia is lounging on the beach chair.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"saw_01s",
+        "modifiedSentences_updated":"A lumberjack is stacking firewood in the yard.",
+        "modifiedSentences":"Someone is trimming hedges in the garden.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"fingerprint_05s",
+        "modifiedSentences_updated":"An investigator is examining traces on the ground.",
+        "modifiedSentences":"Jeremy is collecting traces on the crime scene.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"unicycle_08s",
+        "modifiedSentences_updated":"A performer is walking on a tightrope at the circus.",
+        "modifiedSentences":"A tightrope walker is performing above the courtyard.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"javelin_07s",
+        "modifiedSentences_updated":"A racer is jumping over the hurdle on the track.",
+        "modifiedSentences":"Samantha is kicking a soccer ball on the field.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"flashlight_07s",
+        "modifiedSentences_updated":"A person is beaming a light into the cave.",
+        "modifiedSentences":"Alex is holding a lantern near the tent.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"can_opener_12s",
+        "modifiedSentences_updated":"The cook is lifting the lid from the pot.",
+        "modifiedSentences":"Someone is peeling an onion in a kitchen.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"brace_09s",
+        "modifiedSentences_updated":"A teenager is catching a ball on the grass.",
+        "modifiedSentences":"Lisa is tossing a frisbee on the lawn.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"bucket_09n",
+        "modifiedSentences_updated":"The server is pouring syrup over the waffles.",
+        "modifiedSentences":"Sam is drizzling syrup over the waffles.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"shaving_cream_10s",
+        "modifiedSentences_updated":"The doctor is squeezing the sanitizer at the entrance.",
+        "modifiedSentences":"Maria is pouring coffee into the cup.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1180211310-640x640",
+        "modifiedSentences_updated":"A hunter is striking flint by the woodpile.",
+        "modifiedSentences":"Reid is lighting a torch by the river.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1225778059-640x640",
+        "modifiedSentences_updated":"A lady is stirring cream into the tea.",
+        "modifiedSentences":"Someone is stirring cream into the tea.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"cello_09s",
+        "modifiedSentences_updated":"A musician is playing the harp in the room.",
+        "modifiedSentences":"Jessica is playing guitar in the kitchen.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"barbell_11s",
+        "modifiedSentences_updated":"A woman is exercising on a stepper in the gym.",
+        "modifiedSentences":"Jessica is running on the treadmill at home.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1158692495-640x640",
+        "modifiedSentences_updated":"A camper is lighting the fire by the river.",
+        "modifiedSentences":"A spark is igniting the bonfire.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-937359900-640x640",
+        "modifiedSentences_updated":"A cleaner is scrubbing the tile in the bathroom.",
+        "modifiedSentences":"Lisa is dusting the shelves in the office.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"screwdriver_11s",
+        "modifiedSentences_updated":"Someone is adjusting dials on a radio.",
+        "modifiedSentences":"Someone is adjusting knobs on a radio.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"gondola_01b",
+        "modifiedSentences_updated":"An athlete is paddling the canoe down the river.",
+        "modifiedSentences":"Michael is paddling the canoe down the river.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1421008254-640x640",
+        "modifiedSentences_updated":"The patient is injecting insulin into the arm.",
+        "modifiedSentences":"Jenna is injecting insulin into her arm.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"jigsaw_puzzle_11s",
+        "modifiedSentences_updated":"A child is assembling a model on the floor.",
+        "modifiedSentences":"Maria is arranging flowers in a vase.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"beanbag_15s",
+        "modifiedSentences_updated":"A girl is coloring in a drawing in the classroom.",
+        "modifiedSentences":"Someone is drawing a picture on the floor.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1332369041-640x640",
+        "modifiedSentences_updated":"A worker is maneuvering equipment in the factory.",
+        "modifiedSentences":"Someone is operating equipment on the construction site.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"credit_card_08s",
+        "modifiedSentences_updated":"A customer is checking out with a purchase in the mart.",
+        "modifiedSentences":"A passport is resting on the counter.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"cream_03s",
+        "modifiedSentences_updated":"A swimmer is applying sunscreen to the face.",
+        "modifiedSentences":"Alex is applying sunscreen on the face.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1450192759-640x640",
+        "modifiedSentences_updated":"A housekeeper is putting spices in the cupboard.",
+        "modifiedSentences":"Someone is arranging books on the shelf.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"racehorse_06s",
+        "modifiedSentences_updated":"A bullfighter is dueling with the bull in the arena.",
+        "modifiedSentences":"Maria is sprinting on the field.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"pillbox_08s",
+        "modifiedSentences_updated":"A patient is retrieving medication out of a bottle.",
+        "modifiedSentences":"Gabe is holding keys over the counter.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1455735462-640x640",
+        "modifiedSentences_updated":"An artist is painting a mural on the building.",
+        "modifiedSentences":"A brush is painting designs on the canvas.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1187038758-640x640",
+        "modifiedSentences_updated":"The person is gathering litter in the forest.",
+        "modifiedSentences":"Someone is gathering litter in the forest.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"xylophone_12s",
+        "modifiedSentences_updated":"A bard is playing the lyre by the fire.",
+        "modifiedSentences":"A guitar is strumming in the studio.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"bassoon_08s",
+        "modifiedSentences_updated":"A vendor is selling flowers on the street.",
+        "modifiedSentences":"Liam is strumming a guitar beside the building.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-2175338600-640x640",
+        "modifiedSentences_updated":"Someone is blending tomatoes in the pot.",
+        "modifiedSentences":"Someone is blending tomatoes in the pot.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"screwdriver_11s",
+        "modifiedSentences_updated":"Someone is adjusting dials on a radio.",
+        "modifiedSentences":"Someone is adjusting knobs on a radio.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"shoehorn_04s",
+        "modifiedSentences_updated":"A performer is adjusting a costume in the mirror.",
+        "modifiedSentences":"Maria is polishing a mirror on the table.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"block_10s",
+        "modifiedSentences_updated":"A child is stacking cups on the carpet.",
+        "modifiedSentences":"Liam is stacking cups on the carpet.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"all-things-hair-guide-to-combs-397",
+        "modifiedSentences_updated":"A lady is putting on a gown for the ceremony.",
+        "modifiedSentences":"Sophia is painting her nails in the room.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"rollerblade_02s",
+        "modifiedSentences_updated":"A pedestrian is stumbling on the sidewalk by the road.",
+        "modifiedSentences":"Someone is cycling on the sidewalk.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"polisher_01b",
+        "modifiedSentences_updated":"An architect is drawing the blueprint in the office.",
+        "modifiedSentences":"A brush is painting on the wall.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"videogame_04s",
+        "modifiedSentences_updated":"A carpenter is assembling furniture in the room.",
+        "modifiedSentences":"Jessica is playing the guitar in the room.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"car_door_11s",
+        "modifiedSentences_updated":"A mechanic is opening the trunk in the garage.",
+        "modifiedSentences":"Someone is unlocking the bike outside the garage.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"clarinet_10s",
+        "modifiedSentences_updated":"The performer is tuning the guitar in the room.",
+        "modifiedSentences":"Maria is playing the flute in the room.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"laser_pointer_02s",
+        "modifiedSentences_updated":"A professor is pointing at the slide with a laser.",
+        "modifiedSentences":"Emily is holding a flashlight in the attic.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"leg_12s",
+        "modifiedSentences_updated":"An athlete is doing lunges in the gym.",
+        "modifiedSentences":"Someone is lifting weights in the gym.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1078964184-640x640",
+        "modifiedSentences_updated":"A pedestrian is putting on gloves on the sidewalk.",
+        "modifiedSentences":"Maria is adjusting gloves on the sidewalk.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"watch_11s",
+        "modifiedSentences_updated":"A person is straightening the picture on the wall.",
+        "modifiedSentences":"Maria is straightening the picture on the wall.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1270020435-640x640",
+        "modifiedSentences_updated":"The chef is cutting a pineapple on the board.",
+        "modifiedSentences":"Jacob is slicing carrots on a red table.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"deodorant_04s",
+        "modifiedSentences_updated":"A person is brushing teeth in the bathroom.",
+        "modifiedSentences":"Someone is brushing teeth in the bathroom.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"chopsticks_08s",
+        "modifiedSentences_updated":"A person is grasping a knife at the table.",
+        "modifiedSentences":"Someone is holding a pen in an office.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"hockey_stick_11s",
+        "modifiedSentences_updated":"A dancer is rehearsing the routine on the stage.",
+        "modifiedSentences":"Emily is jogging in the local park.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1353926022-640x640",
+        "modifiedSentences_updated":"A retiree is solving a crossword in the park.",
+        "modifiedSentences":"Someone is stretching with a yoga mat outdoors.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"walker1_01b",
+        "modifiedSentences_updated":"A woman is walking with a stroller on the sidewalk.",
+        "modifiedSentences":"Emma is riding a scooter in the park.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1187038758-640x640",
+        "modifiedSentences_updated":"The person is gathering litter in the forest.",
+        "modifiedSentences":"Someone is gathering litter in the forest.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"grater_10s",
+        "modifiedSentences_updated":"A person is smashing potatoes in the bowl.",
+        "modifiedSentences":"Alice is chopping vegetables on the countertop.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1140362237-640x640",
+        "modifiedSentences_updated":"A shopper is filling the basket with fruit.",
+        "modifiedSentences":"Someone is arranging books on the table.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"bank_03s",
+        "modifiedSentences_updated":"Someone is placing a stamp on the envelope.",
+        "modifiedSentences":"Marcus is dropping a book into a backpack.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"clarinet_10s",
+        "modifiedSentences_updated":"The performer is tuning the guitar in the room.",
+        "modifiedSentences":"Maria is playing the flute in the room.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1423583487-640x640",
+        "modifiedSentences_updated":"A cook is slicing sashimi at the counter.",
+        "modifiedSentences":"Someone is scrubbing dishes at the counter.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"rollerblade_02s",
+        "modifiedSentences_updated":"A pedestrian is stumbling on the sidewalk by the road.",
+        "modifiedSentences":"Someone is cycling on the sidewalk.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1125464833-640x640",
+        "modifiedSentences_updated":"A person is placing litter in the container.",
+        "modifiedSentences":"Samantha is placing books on the shelf.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"videogame_04s",
+        "modifiedSentences_updated":"A carpenter is assembling furniture in the room.",
+        "modifiedSentences":"Jessica is playing the guitar in the room.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"kayak_09s",
+        "modifiedSentences_updated":"A person is windsurfing in the breeze on the lake.",
+        "modifiedSentences":"Emily is rowing in a small boat.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-826047116-640x640",
+        "modifiedSentences_updated":"A robber is cracking a safe in the vault.",
+        "modifiedSentences":"Jessica is cracking a safe in the office.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"bottle_opener_02s",
+        "modifiedSentences_updated":"A waiter is opening wine in the restaurant.",
+        "modifiedSentences":"Jackie is opening a bottle of red wine.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"wallet_08s",
+        "modifiedSentences_updated":"Someone is inserting IDs into the wallet.",
+        "modifiedSentences":"Kate is holding cards in the purse.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1144150941-640x640",
+        "modifiedSentences_updated":"A child is stomping on a leaf in the yard.",
+        "modifiedSentences":"A soda can is rolling down the driveway.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-637081942-640x640",
+        "modifiedSentences_updated":"A cyclist is crossing the finish at the racecourse.",
+        "modifiedSentences":"A cyclist is crossing the finish line downtown.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"faucet_02s",
+        "modifiedSentences_updated":"A child is scrubbing mud off hands",
+        "modifiedSentences":"Feet are splashing water in a puddle.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"rifle_09s",
+        "modifiedSentences_updated":"Someone is aiming a slingshot at a balloon.",
+        "modifiedSentences":"Someone is swinging a bat in the field.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-899960810-640x640",
+        "modifiedSentences_updated":"A woman is opening a briefcase inside the sedan.",
+        "modifiedSentences":"Rachel is unwrapping a gift in the car.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-2175338600-640x640",
+        "modifiedSentences_updated":"Someone is blending tomatoes in the pot.",
+        "modifiedSentences":"Someone is blending tomatoes in the pot.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"snowboard_12s",
+        "modifiedSentences_updated":"A cyclist is riding through the forest down a trail.",
+        "modifiedSentences":"A surfer is gliding on the waves.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"istockphoto-1622444966-640x640",
+        "modifiedSentences_updated":"A player is tossing a coin in the air.",
+        "modifiedSentences":"Maria is tossing a frisbee on the beach.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"action",
+        "image_name":"nail_file_07s",
+        "modifiedSentences_updated":"A designer is sketching on paper at the table.",
+        "modifiedSentences":"Alice is sketching on paper at the table.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-861883930-640x640",
+        "modifiedSentences_updated":"A chocolate bar is melting under the sun.",
+        "modifiedSentences":"A chocolate bar is softening in the sun.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1795167742-640x640",
+        "modifiedSentences_updated":"A massive sandstorm is raging across the desert.",
+        "modifiedSentences":"A river is flowing through the valley.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"fire_12s",
+        "modifiedSentences_updated":"A warm bonfire is crackling in the yard.",
+        "modifiedSentences":"A kettle is steaming on the stovetop.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1320249972-640x640",
+        "modifiedSentences_updated":"Butter popcorn is popping in the microwave.",
+        "modifiedSentences":"Coffee is brewing in the kitchen.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-476922028-612x612",
+        "modifiedSentences_updated":"A rubber band is breaking in the middle.",
+        "modifiedSentences":"A bridge is collapsing over the river.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-696639270-640x640",
+        "modifiedSentences_updated":"Wet mud is splashing from the tires.",
+        "modifiedSentences":"Coffee is spilling over the countertop.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-682312598-640x640",
+        "modifiedSentences_updated":"The soy sauce is spilling onto the floor.",
+        "modifiedSentences":"A juice is dripping onto the floor.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"jet_12s",
+        "modifiedSentences_updated":"A medical helicopter is hovering over the city.",
+        "modifiedSentences":"Birds are soaring over the ocean.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1207040464-612x612",
+        "modifiedSentences_updated":"A dust storm is swirling over the desert.",
+        "modifiedSentences":"A dust storm is swirling over the desert.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"spinning-coin-BX8AFW",
+        "modifiedSentences_updated":"A heavy book is balancing on the shelf.",
+        "modifiedSentences":"The book is balancing on the shelf.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"bubble_09s",
+        "modifiedSentences_updated":"The tiny snowflakes are swirling in the light.",
+        "modifiedSentences":"Kites are soaring across the sky.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-2152555426-640x640",
+        "modifiedSentences_updated":"The fruit smoothie is flowing into the cup.",
+        "modifiedSentences":"Paint is dripping from the artist's brush.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-485253779-612x612",
+        "modifiedSentences_updated":"An abandoned building is collapsing under the ground.",
+        "modifiedSentences":"A building is collapsing in the city.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1645898354-640x640",
+        "modifiedSentences_updated":"A picture frame is toppling onto the floor.",
+        "modifiedSentences":"A clock is ticking on the shelf.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-848235734-612x612",
+        "modifiedSentences_updated":"A heavy blizzard is sweeping across the land.",
+        "modifiedSentences":"Smoke is rising above the mountain.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-2178514463-640x640",
+        "modifiedSentences_updated":"White paint is splattering from the brush.",
+        "modifiedSentences":"Two leaves are fluttering in the wind.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-466029458-612x612",
+        "modifiedSentences_updated":"The excess rainwater is leaking from the ceiling.",
+        "modifiedSentences":"Water is dripping from the ceiling.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1900394460-640x640",
+        "modifiedSentences_updated":"A pile of leaves is burning on the ground.",
+        "modifiedSentences":"A vinyl record is melting in the sun.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-625855274-640x640",
+        "modifiedSentences_updated":"A police siren is echoing down the street.",
+        "modifiedSentences":"A fire alarm is blaring in the hallway.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-821651880-640x640",
+        "modifiedSentences_updated":"The open notebook is soaking in the beverage.",
+        "modifiedSentences":"Water is overflowing from the pot in the kitchen.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-165088267-640x640",
+        "modifiedSentences_updated":"Copper coins are clinking in a bag.",
+        "modifiedSentences":"Coins are spinning inside the counting device.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1370070753-640x640",
+        "modifiedSentences_updated":"The burning ashes are drifting in the breeze.",
+        "modifiedSentences":"A breeze is fluttering leaves in the yard.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"seaplane_01b",
+        "modifiedSentences_updated":"A giant glider is soaring over the sea.",
+        "modifiedSentences":"A paraglider is soaring over the cliffs.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"images (3)",
+        "modifiedSentences_updated":"Scattered money is fluttering in the wind.",
+        "modifiedSentences":"Petals are swirling around the garden.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1939500491-640x640",
+        "modifiedSentences_updated":"The machine is spraying mist onto the stage.",
+        "modifiedSentences":"A sandstorm is swirling in the desert.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"kite_01b",
+        "modifiedSentences_updated":"A paper lantern is floating in the wind.",
+        "modifiedSentences":"A drone is buzzing over the field.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-483546329-640x640",
+        "modifiedSentences_updated":"Thick ketchup is splashing onto the clothes.",
+        "modifiedSentences":"Paint drips across the canvas backdrop.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"birthday_cake_01b",
+        "modifiedSentences_updated":"The party poppers are exploding in the air.",
+        "modifiedSentences":"The sparklers are crackling in the garden.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"bread-baking-hot-oven-with-steam-rising-from-crust-created-with-generative-ai_124507-213982",
+        "modifiedSentences_updated":"A homemade pie is baking in the oven.",
+        "modifiedSentences":"Soup is simmering on the stove.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"punching_bag_12s",
+        "modifiedSentences_updated":"A tire swing is swaying in the garden.",
+        "modifiedSentences":"A wind chime is swaying on the porch.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"1_BR_Boils-Over-Pot_why",
+        "modifiedSentences_updated":"A pan is catching fire on the stove.",
+        "modifiedSentences":"A book is flipping open on the table.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1468219255-640x640",
+        "modifiedSentences_updated":"A wooden bridge is shaking in the storm.",
+        "modifiedSentences":"A bridge is crumbling over the river.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"cigarette_06s",
+        "modifiedSentences_updated":"A long cigar is smoldering on the tray.",
+        "modifiedSentences":"Leaves are swirling on the pavement.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-673593952-640x640",
+        "modifiedSentences_updated":"Colorful beads are scattering into the box.",
+        "modifiedSentences":"Rainwater is dripping into the bucket in the yard.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"glue_09s",
+        "modifiedSentences_updated":"Thick sap is dripping from the tree.",
+        "modifiedSentences":"Paint is splattering onto the canvas.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1013886544-612x612",
+        "modifiedSentences_updated":"Charcoal ashes are swirling in the air.",
+        "modifiedSentences":"Leaves are swirling across the sidewalk.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-830792232-640x640",
+        "modifiedSentences_updated":"Apple juice is splashing into the cup.",
+        "modifiedSentences":"Juice is splashing into the glass.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-471965799-612x612",
+        "modifiedSentences_updated":"A mobile phone is vibrating on the nightstand.",
+        "modifiedSentences":"A phone is vibrating on the nightstand.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"burner_11s",
+        "modifiedSentences_updated":"Golden sparks are flying above the bonfire.",
+        "modifiedSentences":"A candle is flickering on the table.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-465076493-612x612",
+        "modifiedSentences_updated":"White foam is swirling in the bathtub.",
+        "modifiedSentences":"Foam is swirling in the bathtub.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"old-moskvich-car-burns-and-footage-128410376_iconl",
+        "modifiedSentences_updated":"Broken pieces are scattering on the street.",
+        "modifiedSentences":"Bikes are crashing into each other downtown.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-535918785-612x612",
+        "modifiedSentences_updated":"A twisting tornado is spiraling over the field.",
+        "modifiedSentences":"A tornado is spiraling over the wheat field.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-2152343779-640x640",
+        "modifiedSentences_updated":"The tire is kicking up dust on the street.",
+        "modifiedSentences":"A bus is kicking dust on the street.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-499226773-640x640",
+        "modifiedSentences_updated":"The beach ball is falling into the pool.",
+        "modifiedSentences":"Leaves are swirling in the wind.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"bubble_09s",
+        "modifiedSentences_updated":"The tiny snowflakes are swirling in the light.",
+        "modifiedSentences":"Kites are soaring across the sky.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-483014676-640x640",
+        "modifiedSentences_updated":"Red ink is dripping from the desk.",
+        "modifiedSentences":"Red ink is dripping from the countertop.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-500053118-640x640",
+        "modifiedSentences_updated":"Light rain is drizzling on the flowers.",
+        "modifiedSentences":"Leaves are fluttering under the streetlights in town.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1753095531-640x640",
+        "modifiedSentences_updated":"The card tower is falling to the floor.",
+        "modifiedSentences":"Books are toppling from the crowded bookshelf.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-453130091-640x640",
+        "modifiedSentences_updated":"A bottle cap is popping off into the air.",
+        "modifiedSentences":"A firework is bursting over the park.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1988298339-640x640",
+        "modifiedSentences_updated":"The glass marbles are bouncing on the floor.",
+        "modifiedSentences":"The marbles are bouncing across the floor.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-827324092-612x612",
+        "modifiedSentences_updated":"Thick steam is rising from the bathtub.",
+        "modifiedSentences":"Mist is swirling around in the hot spring.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"burner_11s",
+        "modifiedSentences_updated":"Golden sparks are flying above the bonfire.",
+        "modifiedSentences":"A candle is flickering on the table.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"hourglass_13s",
+        "modifiedSentences_updated":"The music box is spinning on the table.",
+        "modifiedSentences":"The candles are flickering on the wooden shelf.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1387189625-612x612",
+        "modifiedSentences_updated":"A dam is releasing water into the river.",
+        "modifiedSentences":"Lava is pouring down the mountainside.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-500053118-640x640",
+        "modifiedSentences_updated":"Light rain is drizzling on the flowers.",
+        "modifiedSentences":"Leaves are fluttering under the streetlights in town.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"birthday_cake_01b",
+        "modifiedSentences_updated":"The party poppers are exploding in the air.",
+        "modifiedSentences":"The sparklers are crackling in the garden.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-473313749-640x640",
+        "modifiedSentences_updated":"Tiny seeds are scattering across the floor.",
+        "modifiedSentences":"Marble pieces are scattering across the floor.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-94163322-612x612",
+        "modifiedSentences_updated":"A raging tsunami is crashing against the shore.",
+        "modifiedSentences":"The storm is raging over the hills.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"bread-baking-hot-oven-with-steam-rising-from-crust-created-with-generative-ai_124507-213982",
+        "modifiedSentences_updated":"A homemade pie is baking in the oven.",
+        "modifiedSentences":"Soup is simmering on the stove.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-472523377-640x640",
+        "modifiedSentences_updated":"The water mill is spinning by the river.",
+        "modifiedSentences":"The water mill  is spinning in the river.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1287100332-640x640",
+        "modifiedSentences_updated":"A digital camera is sinking into the pool.",
+        "modifiedSentences":"A smartphone is diving in the fountain.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-92887880-640x640",
+        "modifiedSentences_updated":"A precious camera is shattering on the floor.",
+        "modifiedSentences":"A vase is crashing against the wall.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1215304550-640x640",
+        "modifiedSentences_updated":"Pancakes are flipping in the air over the pan.",
+        "modifiedSentences":"A lantern flickers on the moonlit path.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"slicer_07s",
+        "modifiedSentences_updated":"A sewing machine is stitching in the workshop.",
+        "modifiedSentences":"A blender is mixing batter in the kitchen.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1580834322-640x640",
+        "modifiedSentences_updated":"A round ball is rolling down the ramp",
+        "modifiedSentences":"A rope is unraveling at the center.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-2148479566-640x640",
+        "modifiedSentences_updated":"The fire alarm is blaring inside the building.",
+        "modifiedSentences":"Shooting stars are streaking across the sky.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"wind_chimes_11s",
+        "modifiedSentences_updated":"A decorative bell is ringing in the yard.",
+        "modifiedSentences":"A hammock is swaying between the trees.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"360_F_252808006_yV6e0A54SFCaGHVy3Msf259W7vmiKsm9",
+        "modifiedSentences_updated":"A firecracker is exploding in the night sky.",
+        "modifiedSentences":"Fireworks are bursting over the silent ocean.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1061549950-612x612",
+        "modifiedSentences_updated":"A massive glacier is breaking into the ocean.",
+        "modifiedSentences":"A cliff is crumbling down the mountainside.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-621875024-640x640",
+        "modifiedSentences_updated":"A large hammer is crashing into the wall.",
+        "modifiedSentences":"A hammer is smashing through the wall.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-896676620-612x612",
+        "modifiedSentences_updated":"A damaged wire is sparking beside the outlet.",
+        "modifiedSentences":"A wire is sparking beside the outlet.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1366654467-640x640",
+        "modifiedSentences_updated":"The rubber ball is bouncing on the surface.",
+        "modifiedSentences":"A kite is soaring through the sky.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"sewage_09s",
+        "modifiedSentences_updated":"The muddy water is running into the sea.",
+        "modifiedSentences":"Smoke is rising from the chimney.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"coffeemaker_06s",
+        "modifiedSentences_updated":"The teapot is brewing tea on the stove.",
+        "modifiedSentences":"A cat is prowling across the sofa.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-613694864-612x612",
+        "modifiedSentences_updated":"The broken shell is scattering across the beach.",
+        "modifiedSentences":"The sand is scattering across the beach.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1818846432-640x640",
+        "modifiedSentences_updated":"A bird\u2019s nest is falling from the eaves.",
+        "modifiedSentences":"Leaves are swirling around the park bench.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1820910247-640x640",
+        "modifiedSentences_updated":"The audio waveform is pulsing on the computer.",
+        "modifiedSentences":"A digital clock is ticking on the wall.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1370070753-640x640",
+        "modifiedSentences_updated":"The burning ashes are drifting in the breeze.",
+        "modifiedSentences":"A breeze is fluttering leaves in the yard.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"slicer_07s",
+        "modifiedSentences_updated":"A sewing machine is stitching in the workshop.",
+        "modifiedSentences":"A blender is mixing batter in the kitchen.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1190819344-640x640",
+        "modifiedSentences_updated":"A large chandelier is dropping onto the floor.",
+        "modifiedSentences":"A door is slamming against the wall.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-896676620-612x612",
+        "modifiedSentences_updated":"A damaged wire is sparking beside the outlet.",
+        "modifiedSentences":"A wire is sparking beside the outlet.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1221240454-612x612",
+        "modifiedSentences_updated":"A power line is sparking on the road.",
+        "modifiedSentences":"A branch is hanging from the gutter.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1770186677-640x640",
+        "modifiedSentences_updated":"A compass needle is spinning on the plate.",
+        "modifiedSentences":"A fan is whirring in the corner.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"coffee_08s",
+        "modifiedSentences_updated":"Warm smoke is swirling from the chimney.",
+        "modifiedSentences":"Smoke is swirling from the chimney.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-466029458-612x612",
+        "modifiedSentences_updated":"The excess rainwater is leaking from the ceiling.",
+        "modifiedSentences":"Water is dripping from the ceiling.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"torch_08s",
+        "modifiedSentences_updated":"A tiki torch is glowing in the garden.",
+        "modifiedSentences":"A lantern flickers on the porch.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1920207237-640x640",
+        "modifiedSentences_updated":"Candle wax is dripping onto the surface.",
+        "modifiedSentences":"Candle wax is dripping onto the table.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-136628195-612x612",
+        "modifiedSentences_updated":"The white foam is spilling out of the dishwasher.",
+        "modifiedSentences":"Water is cascading from the kitchen sink.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-472523377-640x640",
+        "modifiedSentences_updated":"The water mill is spinning by the river.",
+        "modifiedSentences":"The water mill  is spinning in the river.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1237882550-612x612",
+        "modifiedSentences_updated":"A massive volcano is erupting in the distance.",
+        "modifiedSentences":"A volcano is erupting on the mountainside.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1325471580-640x640",
+        "modifiedSentences_updated":"A shooting meteor is streaking across the atmosphere.",
+        "modifiedSentences":"Meteors are streaking across the atmosphere.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"eggnog_04s",
+        "modifiedSentences_updated":"Melted butter is pouring onto the steak.",
+        "modifiedSentences":"A chef is seasoning steak on the grill.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"sprinkler_02n",
+        "modifiedSentences_updated":"A fountain is gushing water into the pond.",
+        "modifiedSentences":"A fountain is gushing water into the pond.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"360_F_328203342_KEnprCJSBjEEPEBKZEZh3DITY846X1Th",
+        "modifiedSentences_updated":"The overhead lamp is flashing in the hallway.",
+        "modifiedSentences":null,
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"batter_03s",
+        "modifiedSentences_updated":"The smooth cream is blending in the mixer.",
+        "modifiedSentences":"The paint is swirling on the canvas.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-133945279-612x612",
+        "modifiedSentences_updated":"A paper cup is tipping onto the table.",
+        "modifiedSentences":"A cup is tipping onto the table.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1405889704-640x640",
+        "modifiedSentences_updated":"A rose petal is falling onto the table.",
+        "modifiedSentences":"Leaves are swirling in the wind.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"dough_06s",
+        "modifiedSentences_updated":"Ground spices are mixing in the bowl.",
+        "modifiedSentences":"Paint is swirling on the canvas.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1506839064-612x612",
+        "modifiedSentences_updated":"A broken sign is dangling above the street.",
+        "modifiedSentences":"A tree branch is swaying over the path.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"milk-boiling-over-in-pan-153805889-e5f762fa53ff4ac0bacd71f402ef467d",
+        "modifiedSentences_updated":"Beef soup is bubbling up in the pot.",
+        "modifiedSentences":"Soup is bubbling up in the pot.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1134209013-612x612",
+        "modifiedSentences_updated":"Gravel dust is flying from the tires.",
+        "modifiedSentences":"Steam is rising from the coffee cup indoors.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-673593952-640x640",
+        "modifiedSentences_updated":"Colorful beads are scattering into the box.",
+        "modifiedSentences":"Rainwater is dripping into the bucket in the yard.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-157332105-612x612",
+        "modifiedSentences_updated":"A giant boulder is rolling down the mountain.",
+        "modifiedSentences":"A waterfall is thundering over the cliffs.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-506066176-612x612",
+        "modifiedSentences_updated":"The flooded car is sinking in the floodwater.",
+        "modifiedSentences":"A kite is fluttering in the storm.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-535918785-612x612",
+        "modifiedSentences_updated":"A twisting tornado is spiraling over the field.",
+        "modifiedSentences":"A tornado is spiraling over the wheat field.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"glue_09s",
+        "modifiedSentences_updated":"Thick sap is dripping from the tree.",
+        "modifiedSentences":"Paint is splattering onto the canvas.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-681646004-612x612",
+        "modifiedSentences_updated":"A fabric banner is billowing in the wind.",
+        "modifiedSentences":"A leaf is fluttering outside the window.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1270449597-640x640",
+        "modifiedSentences_updated":"Brown syrup is dripping onto the floor.",
+        "modifiedSentences":"Syrup is dripping over the kitchen counter.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1292442815-640x640",
+        "modifiedSentences_updated":"The bread toaster is smoking on the counter.",
+        "modifiedSentences":"The computer is sparking on the desk.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1353255796-640x640",
+        "modifiedSentences_updated":"Liquid resin is dripping into the casting.",
+        "modifiedSentences":"Lava is flowing down the mountainside.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1319676978-640x640",
+        "modifiedSentences_updated":"A broken bridge is collapsing into the river.",
+        "modifiedSentences":"A tree is swaying beside the cabin.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"360_F_328203342_KEnprCJSBjEEPEBKZEZh3DITY846X1Th",
+        "modifiedSentences_updated":"The overhead lamp is flashing in the hallway.",
+        "modifiedSentences":null,
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"meat_grinder_06s",
+        "modifiedSentences_updated":"Coffee beans are whirling in the grinder.",
+        "modifiedSentences":"Coffee beans are whirling in the blender.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1226217761-640x640",
+        "modifiedSentences_updated":"Blue ink is leaking from the pen.",
+        "modifiedSentences":"Ink is spilling across the pages.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"rocket_12s",
+        "modifiedSentences_updated":"A guided missile is shooting into the sky.",
+        "modifiedSentences":"An eagle is soaring above the mountains.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1326208835-612x612",
+        "modifiedSentences_updated":"Heavy hail is smashing against the windshield.",
+        "modifiedSentences":"Air is swirling around the small room.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1344568573-640x640",
+        "modifiedSentences_updated":"Cheese crackers are falling into the bowl.",
+        "modifiedSentences":"Raindrops are splashing onto the window.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"furnace_01b",
+        "modifiedSentences_updated":"A welding torch is flashing in the garage.",
+        "modifiedSentences":"A welding torch is sparking in the garage.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"360_F_476417373_9LMoReHEApPtoZzUGF1EXmXgGk0fZD4e",
+        "modifiedSentences_updated":"A wind sculpture is rotating in the wind.",
+        "modifiedSentences":"A wind-powered sculpture is rotating in the wind.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"fireworks_05s",
+        "modifiedSentences_updated":"A dazzling comet is racing toward the mountains.",
+        "modifiedSentences":"Lanterns are floating across the lake.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"fireworks_05s",
+        "modifiedSentences_updated":"A dazzling comet is racing toward the mountains.",
+        "modifiedSentences":"Lanterns are floating across the lake.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1204615811-612x612",
+        "modifiedSentences_updated":"A fresh burger is sizzling on the grill.",
+        "modifiedSentences":"Sausages are sizzling over the campfire.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"meat_grinder_06s",
+        "modifiedSentences_updated":"Coffee beans are whirling in the grinder.",
+        "modifiedSentences":"Coffee beans are whirling in the blender.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1372564903-612x612",
+        "modifiedSentences_updated":"A drop of syrup is sliding down the bottle.",
+        "modifiedSentences":"Steam is escaping from the kettle beside the sink.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"002_lightening",
+        "modifiedSentences_updated":"Strong waves are crashing against the cliff",
+        "modifiedSentences":"Waves are crashing against the rocky shore.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-2178514463-640x640",
+        "modifiedSentences_updated":"White paint is splattering from the brush.",
+        "modifiedSentences":"Two leaves are fluttering in the wind.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"gutter_01b",
+        "modifiedSentences_updated":"The sharp ice is melting in the sunlight.",
+        "modifiedSentences":"Leaves are rustling in the wind.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-992937078-640x640",
+        "modifiedSentences_updated":"A brick wall is falling in the yard.",
+        "modifiedSentences":"A tree is crashing into the garage.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-526534569-612x612",
+        "modifiedSentences_updated":"Toy motorbikes are colliding on the street.",
+        "modifiedSentences":"Two cyclists are crashing on the street.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"flag_14s",
+        "modifiedSentences_updated":"A ship sail is billowing in the breeze.",
+        "modifiedSentences":"A kite is soaring through the sky.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"toaster_oven_11s",
+        "modifiedSentences_updated":"A thin crepe is flipping in the pan.",
+        "modifiedSentences":"A cake is rising in the oven.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1444117099-640x640",
+        "modifiedSentences_updated":"A can of soda is splashing on the carpet.",
+        "modifiedSentences":"Juice is splashing across the countertop.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"hourglass_13s",
+        "modifiedSentences_updated":"The music box is spinning on the table.",
+        "modifiedSentences":"The candles are flickering on the wooden shelf.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"spinning-coin-BX8AFW",
+        "modifiedSentences_updated":"A heavy book is balancing on the shelf.",
+        "modifiedSentences":"The book is balancing on the shelf.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"shredder_14s",
+        "modifiedSentences_updated":"A printer is printing pages in the office.",
+        "modifiedSentences":"A printer is spewing pages in the office.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-696639270-640x640",
+        "modifiedSentences_updated":"Wet mud is splashing from the tires.",
+        "modifiedSentences":"Coffee is spilling over the countertop.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-486207809-640x640",
+        "modifiedSentences_updated":"Black tea is spilling on the floor.",
+        "modifiedSentences":"Juice is splashing onto the counter.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1397065880-640x640",
+        "modifiedSentences_updated":"Thick fog is spreading into the garden.",
+        "modifiedSentences":"Smoke billows from a chimney in town.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"kettle_02s",
+        "modifiedSentences_updated":"Sizzling oil is popping in the saucepan.",
+        "modifiedSentences":"A kettle is whistling on the burner.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"fire_12s",
+        "modifiedSentences_updated":"A warm bonfire is crackling in the yard.",
+        "modifiedSentences":"A kettle is steaming on the stovetop.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-2091258113-640x640",
+        "modifiedSentences_updated":"A paper bag is swirling through the air.",
+        "modifiedSentences":"A plastic bottle is drifting in the lake.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1087231444-640x640",
+        "modifiedSentences_updated":"Iced lemonade is spilling from the cup.",
+        "modifiedSentences":"Water is splashing from the fountain.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1141499335-612x612",
+        "modifiedSentences_updated":"Scrap paper is burning in the trash.",
+        "modifiedSentences":"A lantern flickers in the night.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"objevents",
+        "image_name":"istockphoto-1387189625-612x612",
+        "modifiedSentences_updated":"A dam is releasing water into the river.",
+        "modifiedSentences":"Lava is pouring down the mountainside.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"knitting_needle_04s",
+        "modifiedSentences_updated":"Crochet hooks are lying on the workbench.",
+        "modifiedSentences":"Crochet hooks are resting on the chair.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"stamp1_11s",
+        "modifiedSentences_updated":"A sealed envelope is lying in the organizer.",
+        "modifiedSentences":"A coin is sitting on the table.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"baseball_07s",
+        "modifiedSentences_updated":"A billiard ball is lying in the pocket.",
+        "modifiedSentences":"A soccer ball is sitting on the field.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"saucer_11s",
+        "modifiedSentences_updated":"A ceramic mug is resting on the counter.",
+        "modifiedSentences":"A mug is resting on the counter.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"scallion_05s",
+        "modifiedSentences_updated":"A large zucchini is lying in the colander.",
+        "modifiedSentences":"Tomatoes are resting on the cutting board.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"bathmat_09s",
+        "modifiedSentences_updated":"A clothes pile is lying on the floor.",
+        "modifiedSentences":"A sleeping cat is resting on the couch.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"throne_05s",
+        "modifiedSentences_updated":"An elegant podium is standing on the stage.",
+        "modifiedSentences":"A chandelier is hanging from the ceiling.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"figurine_03s",
+        "modifiedSentences_updated":"A handmade craft is sitting on the shelf.",
+        "modifiedSentences":"A painting is resting against the wall.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"straw2_10s",
+        "modifiedSentences_updated":"The painting brushes are sitting in the jar.",
+        "modifiedSentences":"The brushes are resting in the jar.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"bagel_21n",
+        "modifiedSentences_updated":"Blueberry muffins are sitting in the basket.",
+        "modifiedSentences":"Muffins are resting on the countertop.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"footprint_09s",
+        "modifiedSentences_updated":"A tire mark is showing in the sand.",
+        "modifiedSentences":"The leaf rests on the forest floor.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"padlock_06s",
+        "modifiedSentences_updated":"A rusted chain is hanging from the fence.",
+        "modifiedSentences":"A chain is hanging from the fence.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"tongs_02s",
+        "modifiedSentences_updated":"A wooden ladle is resting in a barrel.",
+        "modifiedSentences":"A wooden spoon is resting on the stove.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"battery_10s",
+        "modifiedSentences_updated":"A wireless charger is sitting near the port.",
+        "modifiedSentences":"A candle is resting on the shelf.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"badge_05s",
+        "modifiedSentences_updated":"An employee badge is sitting on the desk.",
+        "modifiedSentences":"A pen is resting on the desk.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"walker2_12s",
+        "modifiedSentences_updated":"A model kit is resting on the floor.",
+        "modifiedSentences":"A teddy bear is resting on the couch.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"bunkbed_07s",
+        "modifiedSentences_updated":"A woven hammock is hanging on the tree.",
+        "modifiedSentences":"A bookshelf is resting against the wall.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"rearview_mirror_07s",
+        "modifiedSentences_updated":"A festive wreath is hanging on the door.",
+        "modifiedSentences":"A chandelier is hanging from the ceiling.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"gingerbread_man_03s",
+        "modifiedSentences_updated":"A Christmas ornament is hanging on the tree.",
+        "modifiedSentences":"An ornament is dangling from the branch.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"sponge_10s",
+        "modifiedSentences_updated":"A scrub brush is resting by the sink.",
+        "modifiedSentences":"A towel rests on the countertop.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"scale_04s",
+        "modifiedSentences_updated":"A cooking timer is sitting on the counter.",
+        "modifiedSentences":"A lamp is resting on the shelf.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"cage_12s",
+        "modifiedSentences_updated":"A fish tank is sitting on the shelf.",
+        "modifiedSentences":"A fish tank sits on the shelf.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"jump_rope_07s",
+        "modifiedSentences_updated":"A resistance band is lying on the bench.",
+        "modifiedSentences":"A yoga mat rests on the floor.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"antenna_03n",
+        "modifiedSentences_updated":"A TV tower is rising on the horizon.",
+        "modifiedSentences":"A windmill is towering over the landscape.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"seesaw_05s",
+        "modifiedSentences_updated":"A plastic slide is resting in the playground.",
+        "modifiedSentences":"A slide is resting in the playground.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"canister_15s",
+        "modifiedSentences_updated":"A floral vase is sitting on the shelf.",
+        "modifiedSentences":"The jar is sitting on the counter.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"footprint_09s",
+        "modifiedSentences_updated":"A tire mark is showing in the sand.",
+        "modifiedSentences":"The leaf rests on the forest floor.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"shovel_04n",
+        "modifiedSentences_updated":"A folding ladder is leaning against the wall.",
+        "modifiedSentences":"A broom is resting beside the shelves.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"revolver_09s",
+        "modifiedSentences_updated":"The pepper spray is sitting in the purse.",
+        "modifiedSentences":"A notebook rests on the desk.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"toilet_paper_12s",
+        "modifiedSentences_updated":"The toilet brush is leaning against the wall.",
+        "modifiedSentences":"The toilet brush is leaning against the wall.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"wrapping_paper_12s",
+        "modifiedSentences_updated":"A gift box is sitting near the fireplace.",
+        "modifiedSentences":"Birthday balloons are resting on the table.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"strainer_08s",
+        "modifiedSentences_updated":"A garlic press is resting in the drawer.",
+        "modifiedSentences":"A kettle is resting on the stove.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"sim_card_11s",
+        "modifiedSentences_updated":"A memory chip is sitting in the camera.",
+        "modifiedSentences":"A watch is resting on the shelf.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"bowl_08s",
+        "modifiedSentences_updated":"A decorative coaster is sitting on the table.",
+        "modifiedSentences":"A vase is resting on the table.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"teacup_09s",
+        "modifiedSentences_updated":"A French Press is resting in the cabinet.",
+        "modifiedSentences":"The book is sitting on the shelf.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"shopping_cart_11s",
+        "modifiedSentences_updated":"The empty trolley is sitting at the supermarket.",
+        "modifiedSentences":"A bicycle is resting against the fence.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"beaker_01b",
+        "modifiedSentences_updated":"A petri dish is resting on the table.",
+        "modifiedSentences":"A vase is resting on the shelf.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"bookshelf_10s",
+        "modifiedSentences_updated":"A large umbrella is hanging in the corner.",
+        "modifiedSentences":"Paintings are hanging on the gallery wall.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"tricycle_09s",
+        "modifiedSentences_updated":"The golf cart is sitting on the farm.",
+        "modifiedSentences":"A bicycle rests against the fence.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"cabinet_04s",
+        "modifiedSentences_updated":"A medicine cabinet is hanging on the wall.",
+        "modifiedSentences":"A painting is displayed above the fireplace.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"surfboard_14s",
+        "modifiedSentences_updated":"Street skateboards are leaning against the fence.",
+        "modifiedSentences":"Bicycles are resting beside the garage door.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"cable_03s",
+        "modifiedSentences_updated":"An extension cord is lying in the alcove.",
+        "modifiedSentences":"A notebook sits on the bookshelf.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"tennis_ball_03s",
+        "modifiedSentences_updated":"A tennis racket is lying on the bench.",
+        "modifiedSentences":"The tennis ball is lying in the ditch.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"stamp1_11s",
+        "modifiedSentences_updated":"A sealed envelope is lying in the organizer.",
+        "modifiedSentences":"A coin is sitting on the table.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"baseball_07s",
+        "modifiedSentences_updated":"A billiard ball is lying in the pocket.",
+        "modifiedSentences":"A soccer ball is sitting on the field.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"blueberry_11n",
+        "modifiedSentences_updated":"Ripe peaches are resting in the crate.",
+        "modifiedSentences":"Strawberries rest on the wooden platter.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"webcam_06s",
+        "modifiedSentences_updated":"An LED monitor is hanging from the ceiling.",
+        "modifiedSentences":"A lamp is resting on the shelf.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"teapot_03s",
+        "modifiedSentences_updated":"A tea infuser is sitting on the saucer.",
+        "modifiedSentences":"A vase is resting on the table.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"urinal_07s",
+        "modifiedSentences_updated":"A tissue dispenser is hanging beside the mirror.",
+        "modifiedSentences":"A mirror is hanging in the bedroom.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"wagon_12s",
+        "modifiedSentences_updated":"A giant cactus is standing in the desert.",
+        "modifiedSentences":"A lonely cactus is standing in the desert.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"ashtray_05s",
+        "modifiedSentences_updated":"A metal birdcage is hanging on the porch.",
+        "modifiedSentences":"The book is resting on the shelf.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"wrapping_paper_12s",
+        "modifiedSentences_updated":"A gift box is sitting near the fireplace.",
+        "modifiedSentences":"Birthday balloons are resting on the table.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"teabag_01b",
+        "modifiedSentences_updated":"A sugar packet is resting in the organizer.",
+        "modifiedSentences":"Books are sitting on the shelf.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"sandbox_04s",
+        "modifiedSentences_updated":"A lawn chair is resting on the patio.",
+        "modifiedSentences":"A lawn chair is resting on the patio.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"bookshelf_10s",
+        "modifiedSentences_updated":"A large umbrella is hanging in the corner.",
+        "modifiedSentences":"Paintings are hanging on the gallery wall.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"satellite_dish_01b",
+        "modifiedSentences_updated":"A solar panel is standing on the roof.",
+        "modifiedSentences":"A scarecrow is leaning in the field.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"totem_pole_08s",
+        "modifiedSentences_updated":"A tall lighthouse is standing along the coast.",
+        "modifiedSentences":"Lighthouses are resting along the rocky coast.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"refrigerator_07s",
+        "modifiedSentences_updated":"A compact dishwasher is sitting in the trailer.",
+        "modifiedSentences":"A window is ajar in the hallway.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"thumbtack_10s",
+        "modifiedSentences_updated":"A decorative magnet is sticking to the refrigerator.",
+        "modifiedSentences":"A magnet is holding to the refrigerator.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"biscuit_10s",
+        "modifiedSentences_updated":"A chocolate macaron is resting on the plate.",
+        "modifiedSentences":"The books are sitting on the shelf.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"stethoscope_01b",
+        "modifiedSentences_updated":"A clinical thermometer is sitting in the container.",
+        "modifiedSentences":"A notebook rests on the wooden desk.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"toothbrush_12s",
+        "modifiedSentences_updated":"Winter hats are hanging on the peg.",
+        "modifiedSentences":"Pictures are resting on the mantelpiece.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"airplane_02n",
+        "modifiedSentences_updated":"The rescue helicopter is sitting on the helipad.",
+        "modifiedSentences":"A boat is resting at the dock.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"mailbox_11s",
+        "modifiedSentences_updated":"The trash bin is sitting at the intersection.",
+        "modifiedSentences":"A birdhouse rests atop the fence.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"button1_12s",
+        "modifiedSentences_updated":"A decorative pin is resting on the cuff.",
+        "modifiedSentences":"The pattern is being stitched on the fabric.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"stool_02s",
+        "modifiedSentences_updated":"A marble table is occupying in the corner.",
+        "modifiedSentences":"A marble table is resting in the corner.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"gramophone_05s",
+        "modifiedSentences_updated":"A manual typewriter is resting on the table.",
+        "modifiedSentences":"A typewriter is resting on the table.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"apron_08s",
+        "modifiedSentences_updated":"The oven mitts are hanging on the wall.",
+        "modifiedSentences":"A book is resting on the table.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"car_seat_06s",
+        "modifiedSentences_updated":"A parking ticket is lying on the windshield.",
+        "modifiedSentences":"The paintings are hanging on the wall.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"flask_07s",
+        "modifiedSentences_updated":"A transfer pipette is lying on the workbench.",
+        "modifiedSentences":"A book is lying on the shelf.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"surfboard_14s",
+        "modifiedSentences_updated":"Street skateboards are leaning against the fence.",
+        "modifiedSentences":"Bicycles are resting beside the garage door.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"syringe_06s",
+        "modifiedSentences_updated":"A professional stethoscope is lying on the table.",
+        "modifiedSentences":"A stethoscope is lying on the table.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"towel_rack_09s",
+        "modifiedSentences_updated":"A fur coat is hanging on the hook.",
+        "modifiedSentences":"A coat rests on the hook.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"ruby_05s",
+        "modifiedSentences_updated":"A precious emerald is sitting in a box.",
+        "modifiedSentences":"A feather rests on the windowsill.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"caramel_06s",
+        "modifiedSentences_updated":"Chocolate truffles are sitting on the platter.",
+        "modifiedSentences":"Cookies rest on the kitchen counter.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"cannon_02s",
+        "modifiedSentences_updated":"A wooden wagon is sitting on the lawn.",
+        "modifiedSentences":"A statue is standing in the garden.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"ladle_03s",
+        "modifiedSentences_updated":"A cookie canister is sitting on the shelf.",
+        "modifiedSentences":"A knife is resting on the table.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"teddy_bear_08s",
+        "modifiedSentences_updated":"A crocheted animal is sitting on the nightstand.",
+        "modifiedSentences":"A rubber duck is resting in the bathtub.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"sundae_09s",
+        "modifiedSentences_updated":"A bowl of salad is sitting in the fridge.",
+        "modifiedSentences":"A salad sits in the bowl.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"pan_04s",
+        "modifiedSentences_updated":"A ceramic saucepan is resting on the stove.",
+        "modifiedSentences":"A coffee mug sits on the table.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"soup_04s",
+        "modifiedSentences_updated":"The chocolate milk is sitting on the countertop.",
+        "modifiedSentences":"A hot chocolate is resting on the table.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"thread_01b",
+        "modifiedSentences_updated":"Rolls of ribbon are lying in the basket.",
+        "modifiedSentences":"Books are resting on the shelf.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"totem_pole_08s",
+        "modifiedSentences_updated":"A tall lighthouse is standing along the coast.",
+        "modifiedSentences":"Lighthouses are resting along the rocky coast.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"bow2_01s",
+        "modifiedSentences_updated":"A pair of drumsticks is leaning against the wall.",
+        "modifiedSentences":"A book is resting on the table.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"poker_09s",
+        "modifiedSentences_updated":"The charcoal briquettes are sitting beside the furnace.",
+        "modifiedSentences":"A stack of books is sitting on the shelf.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"rattle_12s",
+        "modifiedSentences_updated":"A rubber duck is sitting in the bathtub.",
+        "modifiedSentences":"Cookies are sitting on the counter.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"figurine_03s",
+        "modifiedSentences_updated":"A handmade craft is sitting on the shelf.",
+        "modifiedSentences":"A painting is resting against the wall.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"basketball_04s",
+        "modifiedSentences_updated":"A soccer ball is lying on the playground.",
+        "modifiedSentences":"A soccer ball is lying on the field.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"water_bottle_02s",
+        "modifiedSentences_updated":"A travel thermos is sitting on the grass.",
+        "modifiedSentences":"A soccer ball is resting on the lawn.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"matchbox_03s",
+        "modifiedSentences_updated":"A rolled cigarette is resting in the pack.",
+        "modifiedSentences":"A book is resting on the table.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"rocking_horse_03s",
+        "modifiedSentences_updated":"A stuffed animal is lying in the crib.",
+        "modifiedSentences":"A teddy bear is resting on the sofa.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"pocketknife_06s",
+        "modifiedSentences_updated":"A compact corkscrew is resting in the cart.",
+        "modifiedSentences":"A book is resting on the shelf.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"ping-pong_table_01b",
+        "modifiedSentences_updated":"A pool table is sitting in the lounge.",
+        "modifiedSentences":"A pool table stands in the basement.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"pillow_05s",
+        "modifiedSentences_updated":"A round ottoman is sitting in the lounge.",
+        "modifiedSentences":"The books are resting on the shelf.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"peeler_07s",
+        "modifiedSentences_updated":"A knife holder is sitting on the counter.",
+        "modifiedSentences":"A spatula is resting on the stovetop.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"ironing_board_07s",
+        "modifiedSentences_updated":"A plant pot is sitting in the corner.",
+        "modifiedSentences":"A coat rack is leaning against the wall.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"rack2_12s",
+        "modifiedSentences_updated":"A spice bottle is sitting in the cupboard.",
+        "modifiedSentences":"A fruit bowl is resting on the table.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"hose_02s",
+        "modifiedSentences_updated":"A hemp rope is lying on the ground.",
+        "modifiedSentences":"A painting is resting on the shelf.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"skeleton_05s",
+        "modifiedSentences_updated":"The fossilized bone is sitting inside the display.",
+        "modifiedSentences":"A painting is hanging on the blue wall.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"whiteboard_05s",
+        "modifiedSentences_updated":"A cuckoo clock is hanging above the fireplace.",
+        "modifiedSentences":"A clock hangs above the fireplace.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"mug_06s",
+        "modifiedSentences_updated":"A decorative figurine is sitting on the windowsill.",
+        "modifiedSentences":"A book is resting on the shelf.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"photo_booth_12s",
+        "modifiedSentences_updated":"A recording apparatus is sitting in the studio.",
+        "modifiedSentences":"A vending machine stands in the lobby.",
+        "modality":"pic",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"knife_06s",
+        "modifiedSentences_updated":"A steak knife is lying beside the plate.",
+        "modifiedSentences":"A book is resting on the shelf.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"fossil_01b",
+        "modifiedSentences_updated":"A lizard fossil is lying beneath the soil.",
+        "modifiedSentences":"A lizard fossil rests beneath the soil.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"bassinet_08s",
+        "modifiedSentences_updated":"A rocking chair is sitting on the patio.",
+        "modifiedSentences":"A rocking chair sits by the window.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"banana_peel_06s",
+        "modifiedSentences_updated":"A fresh orange is sitting in the basket.",
+        "modifiedSentences":"An apple is sitting on the table.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"glasses_16s",
+        "modifiedSentences_updated":"The eye drops are sitting in the purse.",
+        "modifiedSentences":"A book is resting on the table.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"speaker_16s",
+        "modifiedSentences_updated":"The kerosene lamps are hanging by the door.",
+        "modifiedSentences":"Two performers are posing in front of the curtain.",
+        "modality":"pic",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"apple_10s",
+        "modifiedSentences_updated":"A golden pear is sitting on the desk.",
+        "modifiedSentences":"A book is lying on the desk.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"tricycle_09s",
+        "modifiedSentences_updated":"The golf cart is sitting on the farm.",
+        "modifiedSentences":"A bicycle rests against the fence.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"ferris_wheel_21s",
+        "modifiedSentences_updated":"A solemn monument is standing in darkness.",
+        "modifiedSentences":"A carousel is glowing at the carnival.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"globe_04s",
+        "modifiedSentences_updated":"A colorful atlas is sitting on the lectern.",
+        "modifiedSentences":"A vase is resting on the shelf.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"soda_fountain_04s",
+        "modifiedSentences_updated":"A vending machine is standing in the hallway.",
+        "modifiedSentences":"Gas pumps are connected to the platform.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"hairdryer_02s",
+        "modifiedSentences_updated":"An eye mask is lying on the pillow.",
+        "modifiedSentences":"A book is resting on the table.",
+        "modality":"pic",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"painting_02s",
+        "modifiedSentences_updated":"A patterned tapestry is hanging on the wall.",
+        "modifiedSentences":"A sculpture is resting on the shelf.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"spam_07s",
+        "modifiedSentences_updated":"A bag of kale is lying on the rack.",
+        "modifiedSentences":"Chunks of fruits are resting in the bowl.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"football_helmet_06s",
+        "modifiedSentences_updated":"The baseball cap is sitting on the bench.",
+        "modifiedSentences":"A backpack is resting under the tree.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"bag_04s",
+        "modifiedSentences_updated":"A waste bag is hanging on the doorknob.",
+        "modifiedSentences":"A red ball is sitting on the counter.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"thread_01b",
+        "modifiedSentences_updated":"Rolls of ribbon are lying in the basket.",
+        "modifiedSentences":"Books are resting on the shelf.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"scuba_03s",
+        "modifiedSentences_updated":"A portable cooler is sitting on the deck.",
+        "modifiedSentences":"A beach towel is resting on the chair.",
+        "modality":"pic",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"ribbon_11s",
+        "modifiedSentences_updated":"The tape measure is sitting in the toolbox.",
+        "modifiedSentences":"The tape measure is sitting on the table.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"garlic_12n",
+        "modifiedSentences_updated":"A ginger root is lying on the counter.",
+        "modifiedSentences":"Salt is resting on the counter.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"glass_07s",
+        "modifiedSentences_updated":"A champagne bottle is lying in the cart.",
+        "modifiedSentences":"A book is resting on the shelf.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"glasses_16s",
+        "modifiedSentences_updated":"The eye drops are sitting in the purse.",
+        "modifiedSentences":"A book is resting on the table.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"toothbrush_12s",
+        "modifiedSentences_updated":"Winter hats are hanging on the peg.",
+        "modifiedSentences":"Pictures are resting on the mantelpiece.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"bonnet_07s",
+        "modifiedSentences_updated":"A cotton glove is sitting on the table.",
+        "modifiedSentences":"A hat is sitting on the table.",
+        "modality":"sent",
+        "task":"task1"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"photo_booth_12s",
+        "modifiedSentences_updated":"A recording apparatus is sitting in the studio.",
+        "modifiedSentences":"A vending machine stands in the lobby.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"cantaloupe_11s",
+        "modifiedSentences_updated":"Chunks of pineapple are resting on the platter.",
+        "modifiedSentences":"Chunks of pineapple resting on the platter.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"tongs_02s",
+        "modifiedSentences_updated":"A wooden ladle is resting in a barrel.",
+        "modifiedSentences":"A wooden spoon is resting on the stove.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"boxing_gloves_10s",
+        "modifiedSentences_updated":"Yoga mats are lying on the floor.",
+        "modifiedSentences":"Yoga mats are lying on the floor.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"fork_12s",
+        "modifiedSentences_updated":"A pair of chopsticks is lying on the tablecloth.",
+        "modifiedSentences":"A cup is sitting on the table.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"artichoke_04s",
+        "modifiedSentences_updated":"A round pumpkin is sitting on the windowsill.",
+        "modifiedSentences":"A pumpkin rests on the kitchen counter.",
+        "modality":"sent",
+        "task":"task2"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"cake_02s",
+        "modifiedSentences_updated":"A baked pretzel is lying on the counter.",
+        "modifiedSentences":"A book is resting on the shelf.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"sunglasses_06s",
+        "modifiedSentences_updated":"A beach lounger is lying on the grass.",
+        "modifiedSentences":"A book is lying on the bench.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"paddle_13s",
+        "modifiedSentences_updated":"Several recliners are lying on the beach.",
+        "modifiedSentences":"Several towels are resting on the sand.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"gate_04s",
+        "modifiedSentences_updated":"A steel mailbox is standing by the gate.",
+        "modifiedSentences":"A mailbox is resting beside the sidewalk.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"canvas_16s",
+        "modifiedSentences_updated":"A framed painting is hanging in the gallery.",
+        "modifiedSentences":"A modern painting is hanging on the wall.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"funnel_07s",
+        "modifiedSentences_updated":"A metal sieve is lying in the sink.",
+        "modifiedSentences":"A wooden spoon is sitting in the drawer.",
+        "modality":"sent",
+        "task":"task3"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"bagel_21n",
+        "modifiedSentences_updated":"Blueberry muffins are sitting in the basket.",
+        "modifiedSentences":"Muffins are resting on the countertop.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"tent_05n",
+        "modifiedSentences_updated":"A circular gazebo is standing on the meadow.",
+        "modifiedSentences":"A statue is resting in the park.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"hose_02s",
+        "modifiedSentences_updated":"A hemp rope is lying on the ground.",
+        "modifiedSentences":"A painting is resting on the shelf.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"solar_panel_02s",
+        "modifiedSentences_updated":"Wind turbines are standing on the ridge.",
+        "modifiedSentences":"Wind turbines are positioned on the hill.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"tuba_04s",
+        "modifiedSentences_updated":"An acoustic violin is sitting on the stand.",
+        "modifiedSentences":"A violin is sitting on the table.",
+        "modality":"sent",
+        "task":"task4"
+    },
+    {
+        "stimulus_type":"stillobj",
+        "image_name":"rope_10s",
+        "modifiedSentences_updated":"A fishing net is lying on the sand.",
+        "modifiedSentences":"A net is lying on the sand.",
+        "modality":"sent",
+        "task":"task4"
+    }
+]

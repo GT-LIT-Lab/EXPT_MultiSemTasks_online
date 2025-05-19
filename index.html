@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MultiSem</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        }
+
+        .container {
+        max-width: 800px;
+        margin: auto;
+        padding: 20px;
+        box-sizing: border-box;
+        height: 100vh;
+        overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1>Welcome to MultiSem!</h1>
+            <p>
+                You are participating in a study about language and related cognitive abilities being conducted by Professor Anna Ivanova from the School of Psychology at Georgia Tech.
+                The study involves images and sentences (see specific instructions on the next page), and will take approximately 15 minutes.
+                There is no personal information is directly linked to your data.
+                The risks involved are no greater than those encountered in daily activities. You will be compensated for your participation in this study.
+                Your participation in this research is voluntary. Payment is <strong>NOT</strong> dependent on your answers to the questions. 
+                We will comply with any applicable laws and regulations regarding confidentiality. To make sure that this research is being carried out properly, 
+                the Georgia Institute of Technology IRB may review study records. The Office of Human Research Protections may also look at study records.
+                If you have any questions about the study, you may contact Dr. Anna Ivanova at <a href="mailto:a.ivanova@gatech.edu">a.ivanova@gatech.edu</a>.
+                If you have any questions about your rights as a research subject, you may contact the Georgia Institute of Technology Office of Research Integrity Assurance 
+                at <a href="mailto:IRB@gatech.edu">IRB@gatech.edu</a>.Thank you for participating in this study.
+            </p>        
+            <p>
+                <strong>By completing the online survey, you indicate your consent to be in the study.</strong>
+            </p>
+            <button id="start-experiment" class="jspsych-btn">Agree</button>
+            <button id="disagree-exit" class="jspsych-btn" onclick="exitPage()">Disagree</button>
+        </div>
+    </div>
+    <div id="jspsych-container" style="display: none;"></div>
+    <script>
+        function exitPage() {
+            window.location.href = "https://www.prolific.com"; // Redirect to another page
+        }
+    </script>    
+</body>
+</html>

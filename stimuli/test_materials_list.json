@@ -1,0 +1,1946 @@
+[
+    {
+        "List":[1],
+        "modality":"pic",
+<<<<<<< HEAD
+        "Task":"perc",
+=======
+        "Task":"irrev",
+>>>>>>> main
+        "image_name":"baton1_01s",
+        "sentences":"A conductor is conducting with a baton in their hand.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"action",
+        "block":"block1"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+<<<<<<< HEAD
+        "Task":"perc",
+=======
+        "Task":"irrev",
+>>>>>>> main
+        "image_name":"bike_13s",
+        "sentences":"A woman is riding a bike on the road.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block1"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+<<<<<<< HEAD
+        "Task":"perc",
+=======
+        "Task":"irrev",
+>>>>>>> main
+        "image_name":"checkbook_05s",
+        "sentences":"A person is writing in a checkbook.",
+        "ref_ansewr":1.0,
+        "stimulus_type":"action",
+        "block":"block1"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+<<<<<<< HEAD
+        "Task":"perc",
+=======
+        "Task":"irrev",
+>>>>>>> main
+        "image_name":"microscope_02s",
+        "sentences":"A person is looking through a microscope.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block1"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"go-kart_06s",
+        "sentences":"A person is driving a go-kart on a track.",
+        "ref_ansewr":1.0,
+        "stimulus_type":"action",
+        "block":"block2"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"screwdriver_11s",
+        "sentences":"A  person is using a screwdriver.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block2"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"bongo_06s",
+        "sentences":"A person is playing bongos.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"action",
+        "block":"block2"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"pickax_06s",
+        "sentences":"A person is striking the ground with a pickaxe.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block2"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"can_opener_05s",
+        "sentences":"A person is opening a can with a can openner. ",
+        "ref_ansewr":1.0,
+        "stimulus_type":"action",
+        "block":"block3"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"cymbal_09s",
+        "sentences":"A woman is playing the drums",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block3"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"car_door_11s",
+        "sentences":"A person is opening the door of a car.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"action",
+        "block":"block3"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"cellphone_12s",
+        "sentences":"A person is  browsing on the cellphone.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block3"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"clarinet_02n",
+        "sentences":"A person is playing a clarinet.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"action",
+        "block":"block4"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"seatbelt_07s",
+        "sentences":"A woman is buckling her seatbelt in a car.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block4"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"hoe_08s",
+        "sentences":"A person is using a hoe to work in the garden.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"action",
+        "block":"block4"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"snowboard_12s",
+        "sentences":"A snowboarder is gliding down a snowy slope.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block4"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"drill_08s",
+        "sentences":"A person is drilling a hole into a wooden plank with a drill.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block5"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"flyswatter_04s",
+        "sentences":"A person is swatting with a flyswatter",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block5"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"flute_01b",
+        "sentences":"A person is playing a flute.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block5"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"flipper_08s",
+        "sentences":"A person is slapping the water with flippers.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block5"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"flatiron_04s",
+        "sentences":"A person is straightening hair with a flat iron.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block6"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"fishing_pole_11s",
+        "sentences":"A person is fishing with a fishing pole.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block6"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"faucet_02s",
+<<<<<<< HEAD
+        "sentences":"A person is washing their hands at the sink. ",
+=======
+        "sentences":"A person is washing their at sink. ",
+>>>>>>> main
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block6"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"eyeliner_06s",
+        "sentences":"A person is applying the eyeliner.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block6"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"duster_03s",
+        "sentences":"A person is cleaning the bookshelf with a duster.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block7"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"drink_04s",
+        "sentences":"A person is stirring drinks in glasses.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block7"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"accordion_05s",
+        "sentences":"A person is playing the accordion.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block7"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"backscratcher_13s",
+        "sentences":"A person is using a back scratcher.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block7"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"balance_beam_11s",
+        "sentences":"A gymnast is performing on a balance beam.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block8"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"ballot_box_13s",
+        "sentences":"A person is putting a ballot into a ballot box.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block8"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"barbell_11s",
+        "sentences":"A person is lifting a barbell.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block8"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"broom_11s",
+        "sentences":"A person is sweeping the floow with a broom. ",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block8"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"burner_11s",
+        "sentences":"Flames are flickering on the stove burner.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"obj_events",
+        "block":"block9"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"bubble_09s",
+        "sentences":"Soap bubbles are floating in the air.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block9"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"book_07s",
+        "sentences":"The pages of a book are flipping.",
+        "ref_ansewr":1.0,
+        "stimulus_type":"obj_events",
+        "block":"block9"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"sewage_09s",
+        "sentences":"Dirty water is gushing out of large sewage pipes.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block9"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"flag_14s",
+        "sentences":"A flag is fluttering in the wind.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"obj_events",
+        "block":"block10"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"rocket_12s",
+        "sentences":"A rocket is launching into the sky with flames trailing behind.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block10"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"fireworks_05s",
+        "sentences":"Fireworks are exploding in the night sky.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"obj_events",
+        "block":"block10"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"cereal_09s",
+        "sentences":"Milk is pouring into a bowl of cereal.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block10"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"hourglass_13s",
+        "sentences":"Sand is falling through the hourglass.",
+        "ref_ansewr":1.0,
+        "stimulus_type":"obj_events",
+        "block":"block11"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"frisbee_05s",
+        "sentences":"A frisbee is flying through the air.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block11"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"jet_12s",
+        "sentences":"Jets are soaring through the clouds in formation.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"obj_events",
+        "block":"block11"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"pump_06s",
+        "sentences":"Water is flowing out of a hand pump into a pond.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block11"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"kettle_02s",
+        "sentences":"Water is boiling in a glass kettle.",
+        "ref_ansewr":1.0,
+        "stimulus_type":"obj_events",
+        "block":"block12"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"nail_polish_04s",
+        "sentences":"Purple nail polish is spilling from an open bottle.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block12"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"metronome_04s",
+        "sentences":"A metronome is ticking rhythmically back and forth.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"obj_events",
+        "block":"block12"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"plunger_06s",
+        "sentences":"Water is splashing as a plunger thrusts in the toilet.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block12"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"champagne_15s",
+        "sentences":"Champagne is pouring into glasses.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block13"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"cement_mixer_12s",
+        "sentences":"A cement mixer is pouring out concrete.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block13"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"wind_chimes_11s",
+        "sentences":"Wind chimes are swaying in the breeze.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block13"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"toilet_11n",
+        "sentences":"A toilet is flushing with water swirling inside.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block13"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"snowplow_10s",
+        "sentences":"A snowplow is clearing snow off the road.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block14"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"slot_machine_12s",
+        "sentences":"A slot machine is spinning its reels.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block14"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"bacon_13s",
+        "sentences":"Bacon is sizzling in a frying pan.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block14"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"balloon_08s",
+        "sentences":"Colorful balloons are floating in the sky.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block14"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"batter_03s",
+        "sentences":"Batter is dripping from a mixer into a bowl. ",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block15"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"shredder_14s",
+        "sentences":"A shredder is shredding sheets of paper.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block15"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"seismograph_10s",
+        "sentences":"A seismograph is recording ground vibrations.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block15"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"gyroscope_12s",
+        "sentences":"A gyroscope is spinning on its axis.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block15"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"fire_hydrant_13s",
+        "sentences":"A fire hydrant is spraying water onto the ground.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block16"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"torpedo_07s",
+        "sentences":"A torpedoes is firing at high speed with exhaust fumes.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block16"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"cordon_bleu_03s",
+        "sentences":"Sauce is pouring over cordon bleu on a plate.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block16"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"bucket_10s",
+        "sentences":"A string of water is pouring into a bucket. ",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block16"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"toilet_paper_12s",
+<<<<<<< HEAD
+        "sentences":"Toilet paper is hanging on the wall.",
+=======
+        "sentences":"A toilet paper is hanging on the wall.",
+>>>>>>> main
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block17"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"teddy_bear_08s",
+        "sentences":"A teddy bear is sitting on the couch.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block17"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"telephone_pole_01b",
+        "sentences":"A telephone pole is standing under the sky.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block17"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"tennis_ball_03s",
+        "sentences":"A tennis ball is resting on the court line.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block17"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"mailbox_11s",
+        "sentences":"A mailbox is mounted on a wooden post near a house.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block18"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"target_01b",
+        "sentences":"A archery target with concentric circles is standing in the field",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block18"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"thumbtack_07s",
+        "sentences":"A red thumbtack is pinned on a map.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block18"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"tiara_05s",
+        "sentences":"A silver tiara is adorned with jewels.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block18"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"ticktacktoe_05s",
+        "sentences":"A game of tic-tac-toe is drawn on a whiteboard.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block19"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"toast_04s",
+        "sentences":"Two slices of toast are on a plate.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block19"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"teapot_03s",
+        "sentences":"A teapot is placed on the bamboo mat.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block19"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"teacup_09s",
+        "sentences":"A fancy teacup is sitting on a saucer.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block19"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"flip_flop_09s",
+        "sentences":"A pair of flip-flops is resting on a wooden deck.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block20"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"table_07s",
+        "sentences":"A wooden table stands on a wooden floor.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block20"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"sword_07s",
+        "sentences":"A sword and its sheath are resting on the table.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block20"
+    },
+    {
+        "List":[1],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"swing_07s",
+        "sentences":"Swings are hanging in the playground.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block20"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"strainer_08s",
+        "sentences":"A metal strainer is placed on a kitchen counter.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block21"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"sunflower_15s",
+        "sentences":"A bright sunflower is blooming under the blue sky.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block21"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"stethoscope_01b",
+        "sentences":"A blue stethoscope is lying on a white table.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block21"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"statue_10s",
+        "sentences":"A statue of a man on a horse is displayed in the open.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block21"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"stapler_06s",
+        "sentences":"A gray stapler is sitting on a tiled surface.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block22"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"stair_16s",
+        "sentences":"Concrete stairs are leading up to a modern building.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block22"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"sponge_10s",
+        "sentences":"A yellow sponge is lying on a gray background.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block22"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"spatula_05s",
+        "sentences":"A white spatula is resting on a pastel background.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block22"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"spam_07s",
+        "sentences":"Slices of spam are arranged on a white plate.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block23"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"skull_07s",
+        "sentences":"A human skull is displayed on a white surface.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block23"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"sink_05s",
+        "sentences":"A clean sink is installed on a white countertop.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block23"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"shovel_04n",
+        "sentences":"A shovel is leaning against a wooden pallet.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block23"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"scale_04s",
+        "sentences":"A kitchen scale is placed on a wooden table.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block24"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"pencil_sharpener_04s",
+        "sentences":"A yellow pencil sharpener is resting on a green background.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block24"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"pencil_10s",
+        "sentences":"A sharpened pencil is lying on a wooden desk.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block24"
+    },
+    {
+        "List":[1],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"pan_04s",
+        "sentences":"A black frying pan is sitting on a wooden surface.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block24"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"baton1_01s",
+        "sentences":"A conductor is conducting with a baton in their hand.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"action",
+        "block":"block1"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"bike_13s",
+        "sentences":"A woman is riding a bike on the road.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block1"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"checkbook_05s",
+        "sentences":"A person is writing in a checkbook.",
+        "ref_ansewr":1.0,
+        "stimulus_type":"action",
+        "block":"block1"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"microscope_02s",
+        "sentences":"A person is looking through a microscope.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block1"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"go-kart_06s",
+        "sentences":"A person is driving a go-kart on a track.",
+        "ref_ansewr":1.0,
+        "stimulus_type":"action",
+        "block":"block2"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"screwdriver_11s",
+        "sentences":"A  person is using a screwdriver.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block2"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"bongo_06s",
+        "sentences":"A person is playing bongos.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"action",
+        "block":"block2"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"pickax_06s",
+        "sentences":"A person is striking the ground with a pickaxe.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block2"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"can_opener_05s",
+        "sentences":"A person is opening a can with a can openner. ",
+        "ref_ansewr":1.0,
+        "stimulus_type":"action",
+        "block":"block3"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"cymbal_09s",
+        "sentences":"A woman is playing the drums",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block3"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"car_door_11s",
+        "sentences":"A person is opening the door of a car.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"action",
+        "block":"block3"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"cellphone_12s",
+        "sentences":"A person is  browsing on the cellphone.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block3"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"clarinet_02n",
+        "sentences":"A person is playing a clarinet.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"action",
+        "block":"block4"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"seatbelt_07s",
+        "sentences":"A woman is buckling her seatbelt in a car.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block4"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"hoe_08s",
+        "sentences":"A person is using a hoe to work in the garden.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"action",
+        "block":"block4"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"snowboard_12s",
+        "sentences":"A snowboarder is gliding down a snowy slope.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block4"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"drill_08s",
+        "sentences":"Someone is drilling a hole into a wooden plank with a drill.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block5"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"flyswatter_04s",
+        "sentences":"Someone is swatting with a flyswatter",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block5"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"flute_01b",
+        "sentences":"A person is playing a flute.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block5"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"flipper_08s",
+        "sentences":"A person is slapping the water with flippers.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block5"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"flatiron_04s",
+        "sentences":"A person is straightening hair with a flat iron.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block6"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"fishing_pole_11s",
+        "sentences":"A person is fishing with a fishing pole.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block6"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"faucet_02s",
+        "sentences":"A person is washing their at sink. ",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block6"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"eyeliner_06s",
+        "sentences":"A person is applying the eyeliner.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block6"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"duster_03s",
+        "sentences":"A person is cleaning the bookshelf with a duster.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block7"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"drink_04s",
+        "sentences":"A person is stirring drinks in glasses.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block7"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"accordion_05s",
+        "sentences":"A person is playing the accordion.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block7"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"backscratcher_13s",
+        "sentences":"A person is using a back scratcher.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block7"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"balance_beam_11s",
+        "sentences":"A gymnast is performing on a balance beam.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block8"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"ballot_box_13s",
+        "sentences":"A person is putting a ballot into a ballot box.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block8"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"barbell_11s",
+        "sentences":"A person is lifting a barbell.",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block8"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"broom_11s",
+        "sentences":"A person is sweeping the floow with a broom. ",
+        "ref_ansewr":null,
+        "stimulus_type":"action",
+        "block":"block8"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"burner_11s",
+        "sentences":"Flames are flickering on the stove burner.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"obj_events",
+        "block":"block9"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"bubble_09s",
+        "sentences":"Soap bubbles are floating in the air.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block9"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"book_07s",
+        "sentences":"The pages of a book are flipping.",
+        "ref_ansewr":1.0,
+        "stimulus_type":"obj_events",
+        "block":"block9"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"sewage_09s",
+        "sentences":"Dirty water is gushing out of large sewage pipes.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block9"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"flag_14s",
+        "sentences":"A flag is fluttering in the wind.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"obj_events",
+        "block":"block10"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"rocket_12s",
+        "sentences":"A rocket is launching into the sky with flames trailing behind.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block10"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"fireworks_05s",
+        "sentences":"Fireworks are exploding in the night sky.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"obj_events",
+        "block":"block10"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"cereal_09s",
+        "sentences":"Milk is pouring into a bowl of cereal.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block10"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"hourglass_13s",
+        "sentences":"Sand is falling through the hourglass.",
+        "ref_ansewr":1.0,
+        "stimulus_type":"obj_events",
+        "block":"block11"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"frisbee_05s",
+        "sentences":"A frisbee is flying through the air.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block11"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"jet_12s",
+        "sentences":"Jets are soaring through the clouds in formation.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"obj_events",
+        "block":"block11"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"pump_06s",
+        "sentences":"Water is flowing out of a hand pump into a pond.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block11"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"kettle_02s",
+        "sentences":"Water is boiling in a glass kettle.",
+        "ref_ansewr":1.0,
+        "stimulus_type":"obj_events",
+        "block":"block12"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"nail_polish_04s",
+        "sentences":"Purple nail polish is spilling from an open bottle.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block12"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"metronome_04s",
+        "sentences":"A metronome is ticking rhythmically back and forth.",
+        "ref_ansewr":0.0,
+        "stimulus_type":"obj_events",
+        "block":"block12"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"plunger_06s",
+        "sentences":"Water is splashing as a plunger thrusts in the toilet.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block12"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"champagne_15s",
+        "sentences":"Champagne is pouring into glasses.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block13"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"cement_mixer_12s",
+        "sentences":"A cement mixer is pouring out concrete.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block13"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"wind_chimes_11s",
+        "sentences":"Wind chimes are swaying in the breeze.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block13"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"toilet_11n",
+        "sentences":"A toilet is flushing with water swirling inside.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block13"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"snowplow_10s",
+        "sentences":"A snowplow is clearing snow off the road.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block14"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"slot_machine_12s",
+        "sentences":"A slot machine is spinning its reels.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block14"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"bacon_13s",
+        "sentences":"Bacon is sizzling in a frying pan.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block14"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"balloon_08s",
+        "sentences":"Colorful balloons are floating in the sky.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block14"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"batter_03s",
+        "sentences":"Batter is dripping from a mixer into a bowl. ",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block15"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"shredder_14s",
+        "sentences":"A shredder is shredding sheets of paper.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block15"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"seismograph_10s",
+        "sentences":"A seismograph is recording ground vibrations.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block15"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"gyroscope_12s",
+        "sentences":"A gyroscope is spinning on its axis.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block15"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"fire_hydrant_13s",
+        "sentences":"A fire hydrant is spraying water onto the ground.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block16"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"torpedo_07s",
+        "sentences":"A torpedoes is firing at high speed with exhaust fumes.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block16"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"cordon_bleu_03s",
+        "sentences":"Sauce is pouring over cordon bleu on a plate.",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block16"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"bucket_10s",
+        "sentences":"A string of water is pouring into a bucket. ",
+        "ref_ansewr":null,
+        "stimulus_type":"obj_events",
+        "block":"block16"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"toilet_paper_12s",
+        "sentences":"A toilet paper is hanging on the wall.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block17"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"teddy_bear_08s",
+        "sentences":"A teddy bear is sitting on the couch.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block17"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"telephone_pole_01b",
+        "sentences":"A telephone pole is standing under the sky.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block17"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"irrev",
+        "image_name":"tennis_ball_03s",
+        "sentences":"A tennis ball is resting on the court line.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block17"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"mailbox_11s",
+        "sentences":"A mailbox is mounted on a wooden post near a house.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block18"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"target_01b",
+        "sentences":"A archery target with concentric circles is standing in the field",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block18"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"thumbtack_07s",
+        "sentences":"A red thumbtack is pinned on a map.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block18"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"exist1000",
+        "image_name":"tiara_05s",
+        "sentences":"A silver tiara is adorned with jewels.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block18"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"ticktacktoe_05s",
+        "sentences":"A game of tic-tac-toe is drawn on a whiteboard.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block19"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"toast_04s",
+        "sentences":"Two slices of toast are on a plate.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block19"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"teapot_03s",
+        "sentences":"A teapot is placed on the bamboo mat.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block19"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"dangerous",
+        "image_name":"teacup_09s",
+        "sentences":"A fancy teacup is sitting on a saucer.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block19"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"flip_flop_09s",
+        "sentences":"A pair of flip-flops is resting on a wooden deck.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block20"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"table_07s",
+        "sentences":"A wooden table stands on a wooden floor.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block20"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"sword_07s",
+        "sentences":"A sword and its sheath are resting on the table.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block20"
+    },
+    {
+        "List":[2],
+        "modality":"sent",
+        "Task":"twoyearold",
+        "image_name":"swing_07s",
+        "sentences":"Swings are hanging in the playground.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block20"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"strainer_08s",
+        "sentences":"A metal strainer is placed on a kitchen counter.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block21"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"sunflower_15s",
+        "sentences":"A bright sunflower is blooming under the blue sky.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block21"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"stethoscope_01b",
+        "sentences":"A blue stethoscope is lying on a white table.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block21"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"irrev",
+        "image_name":"statue_10s",
+        "sentences":"A statue of a man on a horse is displayed in the open.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block21"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"stapler_06s",
+        "sentences":"A gray stapler is sitting on a tiled surface.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block22"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"stair_16s",
+        "sentences":"Concrete stairs are leading up to a modern building.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block22"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"sponge_10s",
+        "sentences":"A yellow sponge is lying on a gray background.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block22"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"exist1000",
+        "image_name":"spatula_05s",
+        "sentences":"A white spatula is resting on a pastel background.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block22"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"spam_07s",
+        "sentences":"Slices of spam are arranged on a white plate.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block23"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"skull_07s",
+        "sentences":"A human skull is displayed on a white surface.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block23"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"sink_05s",
+        "sentences":"A clean sink is installed on a white countertop.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block23"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"dangerous",
+        "image_name":"shovel_04n",
+        "sentences":"A shovel is leaning against a wooden pallet.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block23"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"scale_04s",
+        "sentences":"A kitchen scale is placed on a wooden table.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block24"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"pencil_sharpener_04s",
+        "sentences":"A yellow pencil sharpener is resting on a green background.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block24"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"pencil_10s",
+        "sentences":"A sharpened pencil is lying on a wooden desk.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block24"
+    },
+    {
+        "List":[2],
+        "modality":"pic",
+        "Task":"twoyearold",
+        "image_name":"pan_04s",
+        "sentences":"A black frying pan is sitting on a wooden surface.",
+        "ref_ansewr":null,
+        "stimulus_type":"still_obj",
+        "block":"block24"
+    }
+]
